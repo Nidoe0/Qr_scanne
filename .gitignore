@@ -1,0 +1,17 @@
+.venv/
+.venv313/
+venv/
+**/venv/
+**/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+**/.env
+*.db
+**/storage/*
+!**/storage/.gitkeep
+.buildozer/
+bin/
+*.apk
+*.aab
